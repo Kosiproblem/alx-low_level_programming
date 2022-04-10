@@ -1,7 +1,7 @@
 #includ <stdio.h>
 /**
 *main -Entry point
-*My hello.print task
+*My hello, print task
 *Return: 1 after program execution
 */
 int main(void)
