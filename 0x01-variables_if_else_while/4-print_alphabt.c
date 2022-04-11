@@ -12,11 +12,11 @@ char alphabet;
 for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
 if (alphabet == 'q')
-contine;
+continue;
 ;
 
 else if (alphabet == 'e')
-{contine;
+{continue;
 
 putchar(alphabet);
 }
