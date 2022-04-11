@@ -11,7 +11,7 @@ char alphabet;
 
 for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
-if (alphabet == 'q'
+if (alphabet == 'q)'
 contine;
 ;
 
@@ -24,4 +24,5 @@ putchar ("\n");
 
 return (0);
 
+}
 }
