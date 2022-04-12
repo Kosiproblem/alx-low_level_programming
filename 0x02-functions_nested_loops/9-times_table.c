@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * nine times table
  *
  * Return: Always 0.

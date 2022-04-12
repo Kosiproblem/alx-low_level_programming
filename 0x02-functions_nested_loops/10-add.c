@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * Add integers
  *
  * Return: Always 0.
