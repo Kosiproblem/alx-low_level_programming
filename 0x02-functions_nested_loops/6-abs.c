@@ -1,8 +1,8 @@
 #include "main.h"
 #include <stdio.h>
 /*
- * main - Entry point
- *
+ * _abs - value absolute
+ * @n: The int to print
  * Return: Always 0.
  */
 int _abs(int n)
