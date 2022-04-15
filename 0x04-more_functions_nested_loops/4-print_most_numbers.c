@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * print_most_numbers - prints numbers
+ * print_most_numbers - prints numbers between 0 and 9
  *
  * Return : 0
  */
-void print_most_nuumbers(void)
+void print_most_numbers(void)
 {
 	char n = 0;
 
