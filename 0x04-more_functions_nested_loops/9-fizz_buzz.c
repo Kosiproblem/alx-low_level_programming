@@ -13,7 +13,7 @@ int main(void)
 	{
 		if (i % 3 == 0 && i % 5 == 0)
 		{
-			Printf("FizzBuzz");
+			Pntf("FizzBuzz");
 		}
 		else if (i % 3 == 0)
 		{
